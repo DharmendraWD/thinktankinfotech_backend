@@ -1,3 +1,6 @@
 [submodule "thinktanktech"]
 	path = thinktanktech
 	url = https://github.com/DharmendraWD/thinktanktech
+[submodule "thinktankinfotech_frontend"]
+	path = thinktankinfotech_frontend
+	url = https://github.com/DharmendraWD/thinktankinfotech_frontend
